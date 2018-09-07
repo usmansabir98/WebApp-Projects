@@ -1,0 +1,52 @@
+body {
+	background-image: url(https://images.unsplash.com/photo-1497515114629-f71d768fd07c?dpr=1&auto=format&fit=crop&w=1524&h=&q=60&cs=tinysrgb&crop=);
+	background-size: cover;
+	background-position: center;
+	font-family: "Kaushan Script";
+	color: #663c1e;
+
+}
+
+#logo {
+	width: 35px;
+	height: 35px;
+	margin-right: 10px;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+
+html {
+	height: 100%;
+}
+
+h1{
+	font-size: 4em;
+	color: #baa27c;
+}
+h3{
+	color: #513304;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.form-horizontal {
+	display: block;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.about {
+	color: black;
+	font-size: 1.2em;
+}
